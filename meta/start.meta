@@ -1,0 +1,15 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1399535850;s:8:"modified";i:1409127562;}s:7:"creator";s:10:"Thejesh GN";s:4:"user";s:9:"thejeshgn";s:11:"last_change";a:7:{s:4:"date";i:1409127562;s:2:"ip";s:13:"106.51.232.90";s:4:"type";s:1:"E";s:2:"id";s:5:"start";s:4:"user";s:9:"thejeshgn";s:3:"sum";s:23:"[Data Link Repository] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"thejeshgn";s:10:"Thejesh GN";}s:5:"title";s:13:"DataMeet Wiki";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:13:"datameet_wiki";s:5:"title";s:13:"DataMeet Wiki";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:20:"data_link_repository";s:5:"title";s:20:"Data Link Repository";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:14:"group_business";s:5:"title";s:14:"Group Business";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:15:"recommendations";s:5:"title";s:15:"Recommendations";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:21:"tools_books_tutorials";s:5:"title";s:23:"Tools/ Books/ Tutorials";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:13:"news_articles";s:5:"title";s:13:"News Articles";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:11:"how_to_edit";s:5:"title";s:11:"How to edit";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:276:"Welcome to the wiki. 
+
+Data Link Repository
+
+	*  Indian Geo Spatial Data
+	*   DataMeet Data Catalog
+
+Group Business
+
+	*  DataMeet Logo Contest
+
+Recommendations
+
+	*  Draft Letter to ECI post ODC2014
+	*   Feedback given to NIC and DST in response to the NDSAP policy in Jan 2013";}s:8:"relation";a:2:{s:10:"references";a:7:{s:20:"indiangeospatialdata";b:1;s:7:"catalog";b:0;s:11:"logocontest";b:1;s:19:"odclettertoecidraft";b:1;s:15:"responsetondsap";b:1;s:5:"tools";b:1;s:19:"newspapaer_coverage";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1399535850;s:8:"modified";i:1409127562;}s:7:"creator";s:10:"Thejesh GN";s:4:"user";s:9:"thejeshgn";s:11:"last_change";a:7:{s:4:"date";i:1409127562;s:2:"ip";s:13:"106.51.232.90";s:4:"type";s:1:"E";s:2:"id";s:5:"start";s:4:"user";s:9:"thejeshgn";s:3:"sum";s:23:"[Data Link Repository] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"thejeshgn";s:10:"Thejesh GN";}}}

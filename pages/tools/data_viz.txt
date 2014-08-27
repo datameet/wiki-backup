@@ -1,0 +1,9 @@
+====== Data Viz Tools ======
+  - [[http://datawrapper.de/ | Datawrapper]] - Create simple embeddable charts quickly.
+  - [[https://developers.google.com/chart/interactive/docs/index|Google charts (simple charts and data viz)]]
+  - [[https://support.google.com/fusiontables/answer/184641?hl=en|Google Fusion Tables (simple mapping)]]
+  - [[http://www.tableausoftware.com|Tableau public (data viz)]]
+  - [[http://d3js.org/|D3 Javascript visualization library]]
+  - [[http://0to255.com/ | 0to255]] - Color picker.
+  - [[http://misoproject.com/d3-chart/ | d3.chart]] - Reusable charts using d3.js
+  - [[https://useiconic.com/icons/ | Iconic]] - Amazing collection of Icons, SVG

@@ -1,0 +1,8 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1401183258;s:8:"modified";i:1401183763;}s:7:"creator";s:10:"Thejesh GN";s:4:"user";s:9:"thejeshgn";s:11:"last_change";a:7:{s:4:"date";i:1401183763;s:2:"ip";s:14:"80.244.124.162";s:4:"type";s:1:"E";s:2:"id";s:14:"tools:data_viz";s:4:"user";s:9:"thejeshgn";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"thejeshgn";s:10:"Thejesh GN";}s:5:"title";s:14:"Data Viz Tools";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:14:"data_viz_tools";s:5:"title";s:14:"Data Viz Tools";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:336:"*   Datawrapper - Create simple embeddable charts quickly.
+	*  Google charts (simple charts and data viz)
+	*  Google Fusion Tables (simple mapping)
+	*  Tableau public (data viz)
+	*  D3 Javascript visualization library
+	*   0to255 - Color picker.
+	*   d3.chart - Reusable charts using d3.js
+	*   Iconic - Amazing collection of Icons, SVG";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1401183258;s:8:"modified";i:1401183763;}s:7:"creator";s:10:"Thejesh GN";s:4:"user";s:9:"thejeshgn";s:11:"last_change";a:7:{s:4:"date";i:1401183763;s:2:"ip";s:14:"80.244.124.162";s:4:"type";s:1:"E";s:2:"id";s:14:"tools:data_viz";s:4:"user";s:9:"thejeshgn";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:9:"thejeshgn";s:10:"Thejesh GN";}}}
