@@ -22,5 +22,9 @@ We are cataloging the Tools/ Books/ Tutorials that can be used by the community 
 
 ===== News Articles =====
 [[newspapaer_coverage | Newspaper articles covering]]  datameet community and related efforts.
+===== DataMeet Guidelines =====
+  * [[guidelines:datameet-community-code-of-conduct|DataMeet Community Code of Conduct]] 
+  * [[guidelines:ipr-guidelines| IPR Guidelines]]
+  * [[guidelines:chapter-guidelines|Chapter Guidelines]]
 ===== How to edit =====
 You need account to edit or add pages to the wiki. Please contact thej @ datameet dor org for an account.

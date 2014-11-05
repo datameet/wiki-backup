@@ -1,47 +1,20 @@
-1404904888	106.51.42.23	C	quarterplan_2014	nisha	created	
-1404904926	106.51.42.23	C	quarterplan_2014_q1	nisha	created	
-1404905226	106.51.42.23	C	quarterplan_2014_q2	nisha	created	
-1404905351	106.51.42.23	E	quarterplan_2014_q2	nisha		
-1404905397	106.51.42.23	E	quarterplan_2014_q2	nisha		
-1404905522	106.51.42.23	E	quarterplan_2014_q2	nisha		
-1404905537	106.51.42.23	E	quarterplan_2014_q2	nisha		
-1404905655	106.51.42.23	E	quarterplan_2014	nisha		
-1404905690	106.51.42.23	E	quarterplan_2014	nisha		
-1404905730	106.51.42.23	E	quarterplan_2014	nisha		
-1404905772	106.51.42.23	E	quarterplan	nisha		
-1404905824	106.51.42.23	E	quarterplan_2014_q1	nisha		
-1404905848	106.51.42.23	E	quarterplan_2014	nisha		
-1405629843	74.42.131.110	e	indiangeospatialdata	justinelliotmeyers	updated web addresses for gis datasets	
-1405629987	74.42.131.110	e	indiangeospatialdata	justinelliotmeyers	updated gis data source	
-1407132693	27.34.247.202	E	indiangeospatialdata	thejeshgn		
-1407759445	106.51.240.54	E	odclettertoecidraft	nisha		
-1407759508	106.51.240.54	E	odclettertoecidraft	nisha		
-1407901747	106.51.42.23	C	start_transportationdocumentdraft	nisha	created	
-1408419904	106.51.42.23	E	odclettertoecidraft	nisha		
-1409127562	106.51.232.90	E	start	thejeshgn	[Data Link Repository] 	
-1409127706	106.51.232.90	C	catalog	thejeshgn	created	
-1409127721	106.51.232.90	E	catalog	thejeshgn	[GIS/Maps] 	
-1409127852	106.51.232.90	E	catalog	thejeshgn	[Parliament] 	
-1409127878	106.51.232.90	E	catalog	thejeshgn	[DataMeet Data Catalog] 	
-1409128597	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409128746	106.51.232.90	E	catalog	thejeshgn		
-1409128870	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409128977	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409129008	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409129112	106.51.232.90	E	catalog	thejeshgn		
-1409129136	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409129185	106.51.232.90	E	catalog	thejeshgn		
-1409129453	106.51.232.90	E	catalog	thejeshgn	[Financial] 	
-1409129582	106.51.232.90	E	catalog	thejeshgn	[All India] 	
-1409129682	106.51.232.90	E	catalog	thejeshgn	[Election] 	
-1409129756	106.51.232.90	E	catalog	thejeshgn	[Maps] 	
-1409131321	106.51.232.90	E	catalog	thejeshgn	[Election] 	
-1409131409	106.51.232.90	E	catalog	thejeshgn	[Election] 	
-1409131608	106.51.232.90	E	catalog	thejeshgn	[Election] 	
-1409131658	106.51.232.90	C	catalog:karnataka	thejeshgn	created	
-1409131680	106.51.232.90	C	catalog:delhi	thejeshgn	created	
-1409131713	106.51.232.90	E	catalog	thejeshgn	[States] 	
-1409131732	106.51.232.90	C	catalog:tamilnadu	thejeshgn	created	
-1409131943	106.51.232.90	E	catalog	thejeshgn	[Election] 	
-1409131991	106.51.232.90	E	catalog	thejeshgn	[DataMeet Data Catalog] 	
-1409132060	106.51.232.90	E	catalog	thejeshgn	[DataMeet Data Catalog] 	
+1413394573	122.172.192.56	E	quarterreports_2014_quarter1	nisha	[Logo] 	
+1413394959	122.172.192.56	E	indiangeospatialdata	nisha		
+1413395408	122.172.192.56	E	indiangeospatialdata	nisha	[Available Data] 	
+1413395414	122.172.192.56	C	pincodes	nisha	created	
+1413395522	122.172.192.56	E	pincodes	nisha	[Resources] 	
+1413395569	122.172.192.56	E	indiangeospatialdata	nisha	[Available Data] 	
+1414305962	103.227.96.35	E	start	thejeshgn	[DataMeet Guidelines] added code of conduct	
+1414306727	103.227.96.35	C	guidelines:datameet-community-code-of-conduct	thejeshgn	created the initial version of DataMeet Community Code of Conduct using text from Django and Speakup projects.	
+1414306871	103.227.96.35	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[Meta]  added contact us section	
+1414321158	103.227.96.35	E	catalog	thejeshgn		
+1414558605	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn		
+1414558757	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn		
+1414558992	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[TLDR - Hence the short version] 	
+1414559135	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[TLDR - Hence the short version] 	
+1414559343	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn		
+1414559368	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[TLDR - The Quick Version] 	
+1414559557	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[Introduction] 	
+1414559586	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[Meta] - Implemented some suggestions by Anand	
+1414559637	182.71.250.249	e	guidelines:datameet-community-code-of-conduct	thejeshgn	[Introduction] 	
+1414559754	182.71.250.249	E	guidelines:datameet-community-code-of-conduct	thejeshgn	[TLDR - The Quick Version] 	
