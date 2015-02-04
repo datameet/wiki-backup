@@ -1,4 +1,6 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1412838918;s:8:"modified";i:1413394573;}s:7:"creator";s:14:"Nisha Thompson";s:4:"user";s:5:"nisha";s:11:"last_change";a:7:{s:4:"date";i:1413394573;s:2:"ip";s:14:"122.172.192.56";s:4:"type";s:1:"E";s:2:"id";s:28:"quarterreports_2014_quarter1";s:4:"user";s:5:"nisha";s:3:"sum";s:7:"[Logo] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:5:"nisha";s:14:"Nisha Thompson";}s:5:"title";s:14:"Quarter 1 2014";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:14:"quarter_1_2014";s:5:"title";s:14:"Quarter 1 2014";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:12:"major_events";s:5:"title";s:12:"Major Events";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:4:"logo";s:5:"title";s:4:"Logo";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:12:"chapter_news";s:5:"title";s:12:"Chapter News";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:7:"traffic";s:5:"title";s:7:"Traffic";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:19:"google_group_growth";s:5:"title";s:19:"Google Group Growth";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:10:"media_hits";s:5:"title";s:10:"Media Hits";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:271:"April, May, June
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1412838918;s:8:"modified";i:1413394573;}s:7:"creator";s:14:"Nisha Thompson";s:4:"user";s:5:"nisha";s:11:"last_change";a:7:{s:4:"date";i:1413394573;s:2:"ip";s:14:"122.172.192.56";s:4:"type";s:1:"E";s:2:"id";s:28:"quarterreports_2014_quarter1";s:4:"user";s:5:"nisha";s:3:"sum";s:7:"[Logo] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:5:"nisha";s:14:"Nisha Thompson";}s:5:"title";s:14:"Quarter 1 2014";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:14:"quarter_1_2014";s:5:"title";s:14:"Quarter 1 2014";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:12:"major_events";s:5:"title";s:12:"Major Events";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:4:"logo";s:5:"title";s:4:"Logo";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:12:"chapter_news";s:5:"title";s:12:"Chapter News";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:7:"traffic";s:5:"title";s:7:"Traffic";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:19:"google_group_growth";s:5:"title";s:19:"Google Group Growth";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:10:"media_hits";s:5:"title";s:10:"Media Hits";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:503:"Quarter 1 2014
+
+April, May, June
 
 Major Events
 
@@ -11,4 +13,17 @@ Anand S and Thej - Board members
 Open Data camp
 
 Bangalore - March 
-<http://odc.datameet.org/odcblr2014>";}s:8:"relation";a:2:{s:5:"media";a:2:{s:8:"logo.png";b:1;s:26:"quarter_1_group_growth.png";b:1;}s:10:"firstimage";s:8:"logo.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1412838918;s:8:"modified";i:1413394573;}s:7:"creator";s:14:"Nisha Thompson";s:4:"user";s:5:"nisha";s:11:"last_change";a:7:{s:4:"date";i:1413394573;s:2:"ip";s:14:"122.172.192.56";s:4:"type";s:1:"E";s:2:"id";s:28:"quarterreports_2014_quarter1";s:4:"user";s:5:"nisha";s:3:"sum";s:7:"[Logo] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:5:"nisha";s:14:"Nisha Thompson";}}}
+<http://odc.datameet.org/odcblr2014>
+
+Hyderabad - June
+<http://odc.datameet.org/odchyd2014>
+
+Logo
+
+Logo Contest
+Ask
+<https://groups.google.com/d/topic/datameet/F4_QIoaw5Yo/discussion>
+Logos
+<http://datameet.org/wiki/logocontest>
+Voting
+<https://grou…";}s:8:"relation";a:2:{s:5:"media";a:2:{s:8:"logo.png";b:1;s:26:"quarter_1_group_growth.png";b:1;}s:10:"firstimage";s:8:"logo.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1412838918;s:8:"modified";i:1413394573;}s:7:"creator";s:14:"Nisha Thompson";s:4:"user";s:5:"nisha";s:11:"last_change";a:7:{s:4:"date";i:1413394573;s:2:"ip";s:14:"122.172.192.56";s:4:"type";s:1:"E";s:2:"id";s:28:"quarterreports_2014_quarter1";s:4:"user";s:5:"nisha";s:3:"sum";s:7:"[Logo] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:5:"nisha";s:14:"Nisha Thompson";}}}

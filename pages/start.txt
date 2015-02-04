@@ -9,6 +9,13 @@ Welcome to the wiki.
 
 ===== Group Business =====
   * [[logocontest|DataMeet Logo Contest]]
+  * [[organizations-using-open-data-india| Organizations Using Open Data in India ]]
+
+===== Events =====
+  * [[workshops|Workshops]]
+  * [[hackathons|Hackathons]]
+  * [[meetups|Meetups]]
+  * [[http://odc.datameet.org|Open Data Camps]]
 
 ===== Recommendations =====
   * [[odclettertoecidraft|Draft Letter to ECI post ODC2014]]
@@ -16,8 +23,12 @@ Welcome to the wiki.
 
 
 ===== Tools/ Books/ Tutorials =====
-We are cataloging the Tools/ Books/ Tutorials that can be used by the community to build their projects on. The idea is discoverability. We prefer open source projects as far as possible. You can go to [[tools | tools]]
- page to explore all whole list by category.
+We are cataloging the Tools/ Books/ Tutorials that can be used by the community to build their projects on. The idea is discoverability. We prefer open source projects as far as possible. You can go to [[tools | tools]] page to explore all whole list by category.
+  * [[tools:gis_and_maps | GIS and Maps]]
+  * [[tools:working_with_data | Working with data]]
+  * [[tools:story_telling | Story Telling]]
+  * [[tools:data_viz | Data Viz, Charts, Graphs]]
+
 
 
 ===== News Articles =====
@@ -27,4 +38,4 @@ We are cataloging the Tools/ Books/ Tutorials that can be used by the community 
   * [[guidelines:ipr-guidelines| IPR Guidelines]]
   * [[guidelines:chapter-guidelines|Chapter Guidelines]]
 ===== How to edit =====
-You need account to edit or add pages to the wiki. Please contact thej @ datameet dor org for an account.
+You need account to edit or add pages to the wiki. Please contact thej @ datameet dot org for an account.

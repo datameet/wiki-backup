@@ -1,0 +1,5 @@
+====== Meetups ======
+  * [[http://www.meetup.com/DataMeet/|Data{Meet} Meetups - Bangalore]]
+  * [[http://www.meetup.com/datameet-delhi|Data{Meet} Meetups - Delhi]]
+  * [[http://www.meetup.com/datameet-mumbai|Data{Meet} Meetups - Mumbai]]
+  * [[http://www.meetup.com/geoblr/|GeoBLR]] 

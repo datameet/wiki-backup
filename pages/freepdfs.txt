@@ -1,4 +1,1 @@
-Freeing PDFs are no joke.
-
-If you have some data that needs to be freed from PDFs please let us know and we can help!
-
+[[hackathons:freepdfs|Moved]]

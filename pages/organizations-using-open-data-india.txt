@@ -1,0 +1,10 @@
+====== Organizations Using Open Data in India ======
+^ Organization Name      ^ Location       ^ Type          ^  Work ^ Notes          ^
+| [[http://datameet.org|DataMeet]]    |  Bangalore    | NPO  | Spread Open Data Love   | Have meetups in various other locations. |
+| [[https://gramener.com|Gramener]]    | Bangalore | Private| Data Analysis & Visualizations | They also have offices in Hyderabad & coimbatore|
+| [[https://pykih.com/|pykih]]    | Mumbai | Private| pykih is a data design company | n.a|
+| [[https://klp.org.in//|Karnataka Learning Partnership]]    | Bangalore | NPO| To create better narratives and policies for public pre-primary and primary schools. | Publish data at [[https://klp.org.in/data/]] and [[https://klp.org.in/api/docs/#!/v1/]]|
+| [[http://knoema.com|knoema]]    |  Bangalore   | Private  | Data Collection, Data Dissemination & Data Visualization Platform (SaaS), Data Platform, Public Datasets Catalog, Visualizations, Data Analysis, World Data Atlas | Have Offices in Russia and United States. knoema - very good Public Data Catalog for free to use portal containing more than 200 million time series. Key Other Open Data Portals are:  [[http://opengovernanceindia.org/|Open Governance India]], [[http://africafoodprices.io/|Africa Food Price Collection ]], [[http://opendataforafrica.org/|Open Data for Africa]] |
+
+
+| [[http://orgurl.com|Example ORG Name]]    |  Place    | Type of org  | What work do you do?   | Tell us something about the organization |
